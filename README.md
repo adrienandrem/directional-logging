@@ -4,7 +4,8 @@
 Les fonctions de traitement des données d'abattage directionnel se présentent sous la forme de scripts Python pour la boîte à outils Traitements de QGIS (voir http://docs.qgis.org/2.8/en/docs/user_manual/processing/scripts.html).
 
 ## Installation
-Déposer les fichiers dans le répertoire ~/.qgis2/processing/scripts (ou C:\Users\You\\.qgis2\processing\scripts sous Windows).
+- Déposer les fichiers dans le répertoire ~/.qgis2/processing/scripts (ou C:\Users\You\\.qgis2\processing\scripts sous Windows).
+- Redémarrer QGIS s'il était déjà lancé (QGIS mettra à jour sa liste des scripts).
 
 ## Données d'entrée
 
